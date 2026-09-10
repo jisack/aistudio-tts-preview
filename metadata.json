@@ -1,0 +1,6 @@
+{
+  "name": "TTS Voice Tester",
+  "description": "Interactive testing environment for Gemini Text-to-Speech (TTS) with voice auditioning, speech styles, multi-speaker dialogue, and audio playback.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
